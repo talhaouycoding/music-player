@@ -1,6 +1,4 @@
 # music-player
 
 
-Link application
-
-https://jusic-player.netlify.app/
+listen to music [here][https://jusic-player.netlify.app/]
