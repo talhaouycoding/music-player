@@ -1,6 +1,6 @@
 # music-player
 
-Technologies
+## Technologies
 
 * HTML
 * CSS
@@ -8,5 +8,7 @@ Technologies
 
 This project is simple javascript music player.
 This music player allows your to switch to the next song, Have fun.
-#Setup
+
+
+## Setup
 listen to music [from here](https://jusic-player.netlify.app/)
