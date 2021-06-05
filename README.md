@@ -7,6 +7,7 @@
 * JS
 
 This project is simple javascript music player.
+
 This music player allows your to switch to the next song, Have fun.
 
 
