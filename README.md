@@ -1,6 +1,6 @@
 # music-player
 
-## Technologies
+## Technologies used
 
 * HTML
 * CSS
